@@ -5,5 +5,7 @@
  
  # Implementation
  I have implementated this  API through retrofit library.
+ 
+ # Output
  ![weather (2)](https://user-images.githubusercontent.com/58349839/103883261-ff4db800-5102-11eb-9505-dda7fc31e8f7.PNG)
 
