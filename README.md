@@ -4,7 +4,7 @@
  I build this weather-application using Android studio with the help of API https://openweathermap.org/ this give us access to a certain build file that allow us to display current temperature of current weather on our application.
  
  # Implementation
- I have implementated this  API through retrofit library.
+ I have implemented this  API through retrofit library.
  
  # Output
  ![weather (2)](https://user-images.githubusercontent.com/58349839/103883261-ff4db800-5102-11eb-9505-dda7fc31e8f7.PNG)
